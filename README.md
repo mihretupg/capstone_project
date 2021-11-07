@@ -55,7 +55,6 @@ We are all going to work on parts on the project and submit to this repository.
 
 ## Code Documentation
 
-### Name: Victor Oluwayemi
 - The Body Component
  >The project requirement was to replace the Google logo with the Sidehustle logo and update the logo with the user input >in the search bar. Initially, the Sidehustle logo is displayed, but when a user inputs some text into the search bar, >react updates the state of the logo with the inputed text.
      
