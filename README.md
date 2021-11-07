@@ -40,7 +40,7 @@ We are all going to work on parts on the project and submit to this repository.
 
 ## Article
 
-[Link to the article](https://medium.com/@amanuelabiy.as/sidehustle-capstone-project-1-react-js-5865afbd0ec3).
+[This is the link to the article](https://medium.com/@amanuelabiy.as/sidehustle-capstone-project-1-react-js-5865afbd0ec3).
 
 ## Hosting
 
@@ -48,7 +48,7 @@ We are all going to work on parts on the project and submit to this repository.
 
       It is a good exercise to learn how to host react projects.
 
-- [Live Website](https://sidehustle-capstone-project-team-pjmask.netlify.app).
+- [This is link to the live website](https://sidehustle-capstone-project-team-pjmask.netlify.app).
 
 ## If I left anything out you can suggest it in the group or make the changes in your copy of the project.
 
