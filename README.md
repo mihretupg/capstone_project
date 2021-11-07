@@ -40,7 +40,7 @@ We are all going to work on parts on the project and submit to this repository.
 
 ## Article
 
-[Link to the article]().
+[Link to the article](https://medium.com/@amanuelabiy.as/sidehustle-capstone-project-1-react-js-5865afbd0ec3).
 
 ## Hosting
 
