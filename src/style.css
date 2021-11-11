@@ -264,7 +264,8 @@ footer nav ul {
   margin-left: auto;
 }
 .location {
-  padding-left: 38px;
+  display:flex;
+  justify-content:center;
 }
 @media (max-width: 768px) {
   footer {
